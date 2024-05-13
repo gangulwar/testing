@@ -1,4 +1,4 @@
 # testing
 <p align="center">
-<img src="https://github-ip-peek-production.up.railway.app/testSVGWithInfo" alt="SVG Image">
+<img src="http://github-ip-peek-production.up.railway.app/getInfo.svg" alt="SVG Image">
 </p>
